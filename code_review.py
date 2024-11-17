@@ -11,7 +11,6 @@ from PIL import Image
 
 class RStruct:
     """
-
     将 dict 转为 python 对象
 
     该类用于通过字典返回一个符合映射关系的 python 对象, 可以多次递归:
